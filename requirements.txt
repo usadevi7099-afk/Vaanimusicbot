@@ -1,6 +1,7 @@
 pyrogram==2.0.106
 tgcrypto==1.2.5
-py-tgcalls==2.3.3
+py-tgcalls==2.4.5
 motor==3.5.1
 yt-dlp==2024.8.6
 requests==2.32.3
+
